@@ -1,0 +1,41 @@
+#listContainer{
+	background-color: #333333;
+	width: 100%;
+	height: auto;
+	color:#ffffff;
+	padding-bottom: 0px;
+}
+.titleContainer{
+	width: 100%;
+	height: 60px;
+}
+.titleFont{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 35px;
+}
+hr.small{
+    max-width: 100px;
+    margin: 50px auto;
+    border-color: #fb0000;
+    border-width: 2px;
+}
+
+.blankBlock{
+	width: 100%;
+	height:50px;
+}
+.footerContainer{
+	width: 100%;
+	height:100px;
+	background-color: #454444;
+}
+.videoBlock{
+	width: 100%;
+	height: 50px;
+}
+.trendBlock{
+	
+	width: 100%;
+	height:100px;
+}

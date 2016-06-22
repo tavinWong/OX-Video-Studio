@@ -1,0 +1,24 @@
+.footer-line{
+	height: 3px;
+    background: #fb0000;
+    bottom: 0;
+    position: relative;
+    width: 100%;
+}
+.imageFooter{
+	background: url('../img/capita.jpg') center center no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.overlay{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,0,0,0.6) url('../img/overlayPat0.png');
+}
+.btn-social{
+	color:#ffffff;
+}
