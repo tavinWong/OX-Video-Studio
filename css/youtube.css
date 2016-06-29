@@ -39,3 +39,23 @@ hr.small{
 	width: 100%;
 	height:100px;
 }
+.container.firstVideo{
+	padding-top: 0px;
+	width:100%;
+	height:100%;
+}
+@media screen and (max-width: 768px){
+	.container.firstVideo{
+	width:100%;
+	height:100%;
+	}
+}
+@media screen and (min-width: 1200px){
+	.container.firstVideo{
+	width:60%;
+	height:100%;
+	}
+}
+#portfolio.container{
+	padding-top: 0px;
+}
